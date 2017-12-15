@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Robot Dentist
 
-You can use the [editor on GitHub](https://github.com/skieshia/skieshia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can read more about the first robot to administor dental surgery [USATODAY](https://www.usatoday.com/story/news/nation-now/2017/09/25/chinese-woman-needed-dental-surgery-done-robot/699365001/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
